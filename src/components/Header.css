@@ -1,0 +1,26 @@
+a{
+    color: #0060B6;
+    text-decoration: none;
+}
+  
+.heading {
+    background-color: rgb(48, 47, 47);
+    padding: 10px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid rgb(68, 67, 67);
+}
+
+.heading-child {
+    display: flex;
+    color: white;
+    padding-left: 12px;
+    padding-top: 12px;
+}
+
+.heading-text {
+    display: flex;
+    color: white;
+    padding-left: 12px;
+    padding-bottom: 12px;
+    font-size: 16px;
+}
