@@ -32,7 +32,6 @@ function Header() {
             <a href="../index.html">
                 <img className="heading-child" src={Logo} width="55" height="55" alt="logo" />
 
-                
                 <p className="heading-text"> Baseball </p>
             </a>
         </div>
